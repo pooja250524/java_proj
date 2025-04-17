@@ -1,4 +1,4 @@
-public class demo
+public class f1
 {
 public static void main(String args[])
 {
